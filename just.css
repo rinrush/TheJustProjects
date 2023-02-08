@@ -1,3 +1,18 @@
 .link {
     text-decoration: none;
 }
+.text {
+    padding-left: 20px;
+}
+#name {
+    margin-bottom: 23px;
+    margin-top: 0;
+}
+
+h1 {
+    margin-bottom: 7px;
+}
+
+.header {
+    padding-left: 20px;
+}
